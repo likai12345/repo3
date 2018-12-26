@@ -7,5 +7,6 @@ public class test {
         int j = 2;
 
         System.out.println("world");
+        System.out.println("java");
     }
 }
